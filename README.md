@@ -1,7 +1,7 @@
 ### Olá! Me chamo Yago França e seja bem vindo ao meu perfil 👋
 
 - 🔭 Trabalho com back-end
-- 📚 Estudando front-end
+- 📚 Estudando AI e ML
 - 📫 Contate-me no email: yago_souza00@hotmail.com
 - 💻 Meu website: https://yagosouzafranca.netlify.app
 
