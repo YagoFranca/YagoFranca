@@ -1,125 +1,186 @@
+<!-- CABEÇALHO -->
+<h1 align="center">👋 Olá! Eu sou o Yago França</h1>
+<h3 align="center">💻 Desenvolvedor Back-end | 🤖 Inteligência Artificial | 👁️ Visão Computacional & Chatbots</h3>
+
+<p align="center">
+  <a href="mailto:yago_souza00@hotmail.com">📫 Contato</a> •
+  <a href="https://yagosouzafranca.netlify.app" target="_blank">🌐 Website</a> •
+  <a href="https://www.linkedin.com/in/yago-de-souza-frança-378ba8144/" target="_blank">🔗 LinkedIn</a>
+</p>
+
+---
+
+### 🚀 Sobre mim
+
+Sou um **desenvolvedor back-end** com experiência prática em **Inteligência Artificial**, **Visão Computacional** e **Chatbots Inteligentes**.  
+Atuo na criação de **soluções que combinam automação, análise de imagem e processamento de linguagem natural (NLP)**.  
+
+Minha abordagem une **engenharia de software sólida** com **aplicações reais de IA**, buscando transformar ideias em sistemas funcionais, inteligentes e escaláveis.  
+Tenho experiência com **Python**, **C#**, **Kotlin**, **JavaScript** e tecnologias voltadas a **Machine Learning**.
+
+---
+
+### 💼 Experiência Profissional
+
+🔹 **Desenvolvimento de Visão Computacional**
+- Processamento e segmentação de documentos com **OpenCV**  
+- Aplicação de **warp perspective** e **thresholding adaptativo**  
+- Extração de texto com **OCR (Tesseract)**  
+
+🔹 **Desenvolvimento de Chatbots e NLP**
+- Criação de chatbots com **integração de modelos de linguagem e APIs**  
+- Implementação de **respostas contextuais e compreensão de intenção**  
+- Experiência com **frameworks de NLP e pipelines de automação**  
+
+🔹 **Desenvolvimento Back-end**
+- Criação e manutenção de **APIs RESTful**  
+- Integração com bancos de dados e autenticação segura  
+- Foco em **boas práticas, escalabilidade e performance**
+
+---
+
+### 🧠 Tecnologias e Ferramentas
+
+<div align="center">
+
+  <!-- Linguagens -->
+  <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/C%23-68217A?style=for-the-badge&logo=c-sharp&logoColor=white">
+  <img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+
+  <!-- IA & Frameworks -->
+  <br>
+  <img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=opencv&logoColor=white">
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white">
+  <img src="https://img.shields.io/badge/NLP-008080?style=for-the-badge&logoColor=white">
+
+  <!-- Ferramentas -->
+  <br>
+  <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white">
+  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+
+</div>
+
+---
+
+### ⚙️ Estatísticas do GitHub
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yagofranca&show_icons=true&theme=radical&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yagofranca&layout=compact&theme=radical&hide_border=true"/>
+</div>
+
+---
+
+### 🌎 Redes Sociais
+
+<div align="center">
+  <a href="https://www.instagram.com/yagofrancaa_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/yago-de-souza-frança-378ba8144/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://www.twitch.tv/yagaoyt/about" target="_blank"><img src="https://img.shields.io/badge/-Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white"></a>
+</div>
+
+---
+
 <div align="center">
   
-# 👋 Yago França  
-**Back-end Developer | AI & Computer Vision Enthusiast**
+  ![Snake animation](https://github.com/yagofranca/yagofranca/blob/output/github-contribution-grid-snake.svg)
+  
+</div>
 
-🌎 Escolha o idioma / Choose your language:  
-[🇧🇷 Português](#-versão-em-português) | [🇺🇸 English](#-english-version)
+<!-- HEADER -->
+<h1 align="center">👋 Hey there! I'm Yago França</h1>
+<h3 align="center">💻 Back-end Developer | 🤖 Artificial Intelligence | 👁️ Computer Vision & Chatbots</h3>
+
+<p align="center">
+  <a href="mailto:yago_souza00@hotmail.com">📫 Contact</a> •
+  <a href="https://yagosouzafranca.netlify.app" target="_blank">🌐 Website</a> •
+  <a href="https://www.linkedin.com/in/yago-de-souza-frança-378ba8144/" target="_blank">🔗 LinkedIn</a>
+</p>
+
+---
+
+### 🚀 About Me
+
+I'm a **back-end developer** with hands-on experience in **Artificial Intelligence**, **Computer Vision**, and **Chatbot Development**.  
+I specialize in building **AI-driven solutions** that combine automation, visual recognition, and natural language understanding (NLP).  
+
+My work blends **robust software engineering** with **applied AI**, turning ideas into scalable and intelligent systems.  
+Experienced with **Python**, **C#**, **Kotlin**, **JavaScript**, and **Machine Learning frameworks**.
+
+---
+
+### 💼 Professional Experience
+
+🔹 **Computer Vision Development**
+- Document processing and segmentation using **OpenCV**  
+- **Warp perspective** and **adaptive thresholding** for image correction  
+- Text extraction via **OCR (Tesseract)**  
+
+🔹 **Chatbot & NLP Development**
+- Chatbots with **language model** and **API** integration  
+- Context-aware response systems using **NLP pipelines**  
+- Automation and conversational intelligence systems  
+
+🔹 **Back-end Development**
+- Building and maintaining **RESTful APIs**  
+- Database integration and secure authentication  
+- Focus on **scalability, performance, and clean architecture**
+
+---
+
+### 🧠 Technologies & Tools
+
+<div align="center">
+
+  <!-- Languages -->
+  <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/C%23-68217A?style=for-the-badge&logo=c-sharp&logoColor=white">
+  <img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+
+  <!-- AI & Frameworks -->
+  <br>
+  <img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=opencv&logoColor=white">
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white">
+  <img src="https://img.shields.io/badge/NLP-008080?style=for-the-badge&logoColor=white">
+
+  <!-- Tools -->
+  <br>
+  <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white">
+  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
 
 </div>
 
 ---
 
-## 🇧🇷 Versão em Português  
+### ⚙️ GitHub Stats
 
-### 👋 Olá! Me chamo Yago França  
-Seja bem-vindo ao meu perfil!  
-
-💻 Sou desenvolvedor **Back-end** com experiência em **projetos de Inteligência Artificial**, atuando principalmente nas áreas de **Visão Computacional** e **Chatbots inteligentes**.  
-Atualmente, desenvolvo soluções que utilizam **OpenCV**, **OCR**, **Modelos de Linguagem (LLMs)** e integração com **APIs conversacionais**, aplicando IA de forma prática em sistemas reais.  
-
----
-
-### 🧠 Projetos em IA  
-
-🚀 **Digitalização Inteligente de Documentos (OpenCV + OCR)**  
-Desenvolvi um sistema em **Python** que captura imagens de documentos via webcam, detecta automaticamente o contorno, realiza **warp perspective** e aplica **pré-processamento adaptativo** para extrair texto com **OCR (Tesseract)**.  
-> Tecnologias: OpenCV, Tkinter, PyTesseract, ReportLab  
-
-🤖 **Chatbots com Modelos de Linguagem (LLMs)**  
-Criação de chatbots personalizados com **integração a APIs de IA conversacional**, capazes de responder em linguagem natural e realizar tarefas específicas com contexto dinâmico.  
-> Tecnologias: Python, FastAPI, LangChain, APIs OpenAI  
-
-🧩 **Análise de Imagens e Reconhecimento de Padrões**  
-Desenvolvimento de modelos baseados em **Visão Computacional** para detectar e processar informações visuais em imagens e vídeos em tempo real.  
-> Tecnologias: OpenCV, NumPy, TensorFlow  
-
----
-
-### 🚀 Tecnologias e Ferramentas  
-
-<div style="display: inline_block"><br>
-  <img align="center" alt="Yago-Html" height="30" width="80" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
-  <img align="center" alt="Yago-Css" height="30" width="80" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
-  <img align="center" alt="Yago-Js" height="30" width="120" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
-  <img align="center" alt="Yago-Python" height="30" width="100" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
-  <img align="center" alt="Yago-Csharp" height="30" width="70" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
-  <img align="center" alt="Yago-Kotlin" height="30" width="90" src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white">
-  <img align="center" alt="Yago-Unity" height="30" width="90" src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white">
-  <img align="center" alt="Yago-Netlify" height="30" width="90" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white">
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yagofranca&show_icons=true&theme=radical&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yagofranca&layout=compact&theme=radical&hide_border=true"/>
 </div>
 
 ---
 
-### 🌍 Minhas Redes  
+### 🌎 Social Links
 
-<div>
-   <a href="https://www.instagram.com/yagofrancaa_/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-   <a href="https://www.linkedin.com/in/yago-de-souza-frança-378ba8144/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-   <a href="https://www.twitch.tv/yagaoyt/about" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white"></a>
-</div>
-
-📫 **Email:** yago_souza00@hotmail.com  
-💻 **Website:** [yagosouzafranca.netlify.app](https://yagosouzafranca.netlify.app)
-
----
-
-![Snake animation](https://github.com/yagofranca/yagofranca/blob/output/github-contribution-grid-snake.svg)
-
----
-
-## 🇺🇸 English Version  
-
-### 👋 Hello! I'm Yago França  
-Welcome to my profile!  
-
-💻 I’m a **Back-end Developer** with hands-on experience in **Artificial Intelligence projects**, mainly focused on **Computer Vision** and **Conversational Chatbots**.  
-Currently, I develop solutions using **OpenCV**, **OCR**, and **Large Language Models (LLMs)**, integrating conversational APIs to build real-world AI-driven systems.  
-
----
-
-### 🧠 AI Projects  
-
-🚀 **Smart Document Scanner (OpenCV + OCR)**  
-Built a **Python-based** system that captures documents via webcam, automatically detects edges, applies **warp perspective**, and performs **adaptive preprocessing** for accurate text extraction using **OCR (Tesseract)**.  
-> Tech Stack: OpenCV, Tkinter, PyTesseract, ReportLab  
-
-🤖 **Chatbots with LLM Integration**  
-Developed custom chatbots integrated with **AI conversational APIs**, capable of natural language understanding and executing contextual tasks dynamically.  
-> Tech Stack: Python, FastAPI, LangChain, OpenAI APIs  
-
-🧩 **Image Analysis & Pattern Recognition**  
-Worked on **Computer Vision** models to detect, analyze, and process visual information in images and live video feeds.  
-> Tech Stack: OpenCV, NumPy, TensorFlow  
-
----
-
-### 🚀 Tech Stack  
-
-<div style="display: inline_block"><br>
-  <img align="center" alt="Yago-Html" height="30" width="80" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
-  <img align="center" alt="Yago-Css" height="30" width="80" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
-  <img align="center" alt="Yago-Js" height="30" width="120" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
-  <img align="center" alt="Yago-Python" height="30" width="100" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
-  <img align="center" alt="Yago-Csharp" height="30" width="70" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
-  <img align="center" alt="Yago-Kotlin" height="30" width="90" src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white">
-  <img align="center" alt="Yago-Unity" height="30" width="90" src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white">
-  <img align="center" alt="Yago-Netlify" height="30" width="90" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white">
+<div align="center">
+  <a href="https://www.instagram.com/yagofrancaa_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/yago-de-souza-frança-378ba8144/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://www.twitch.tv/yagaoyt/about" target="_blank"><img src="https://img.shields.io/badge/-Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white"></a>
 </div>
 
 ---
 
-### 🌍 Connect with Me  
-
-<div>
-   <a href="https://www.instagram.com/yagofrancaa_/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-   <a href="https://www.linkedin.com/in/yago-de-souza-frança-378ba8144/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-   <a href="https://www.twitch.tv/yagaoyt/about" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white"></a>
+<div align="center">
+  
+  ![Snake animation](https://github.com/yagofranca/yagofranca/blob/output/github-contribution-grid-snake.svg)
+  
 </div>
 
-📫 **Email:** yago_souza00@hotmail.com  
-💻 **Website:** [yagosouzafranca.netlify.app](https://yagosouzafranca.netlify.app)
-
----
-
-![Snake animation](https://github.com/yagofranca/yagofranca/blob/output/github-contribution-grid-snake.svg)
